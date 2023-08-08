@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Skandaking
 - 👀 I’m interested in C#, java, JavaScript and python
-- 🌱 I’m currently studying computer science
+- 🌱 I’m a full stack software developer 
 - 💞️ I’m looking to collaborate on different projects 
 - 📫 How to reach me via email skandakaunda@gmail.com
 
